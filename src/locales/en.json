@@ -1,0 +1,31 @@
+{
+    "App": "Application",
+    "Protocols": "Protocol Handlers",
+    "Settings": "Settings",
+
+    "System Setting": "System",
+    "Auto Launch": "Auto Launch",
+    "Silent Start": "Silent Start",
+    "Theme Mode": "Theme Mode",
+    "Theme Blur": "Theme Blur",
+    "Language": "Language",
+    "Open App Dir": "Open App Dir",
+    "Version": "Version",
+    "New Version": "New Version is available",
+
+    "All": "All",
+    "Executable": "Executable",
+    "Pluggable": "Pluggable",
+    "Filter": "Filter conditions",
+
+    "Name": "Name",
+    "Description": "Description",
+    "Command": "Command",
+    "ModifiedAt": "ModifiedAt",
+
+    "New": "New",
+    "Update": "Update",
+    "Refresh": "Refresh",
+    "Save": "Save",
+    "Cancel": "Cancel"
+}

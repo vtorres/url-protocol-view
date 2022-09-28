@@ -1,0 +1,31 @@
+{
+    "App": "Aplicação",
+    "Protocols": "Protocolos",
+    "Settings": "Configurações",
+
+    "System Setting": "Sistema",
+    "Auto Launch": "Iniciar automaticamente",
+    "Silent Start": "Iniciar silenciosamente",
+    "Theme Mode": "Tema",
+    "Theme Blur": "Transparência",
+    "Language": "Linguagem",
+    "Open App Dir": "Abrir pasta do App",
+    "Version": "Versão",
+    "New Version": "Nova Versão disponível",
+
+    "All": "Todos",
+    "Executable": "Executáveis",
+    "Pluggable": "Plugáveis",
+    "Filter": "",
+
+    "Name": "Nome",
+    "Description": "Descrição",
+    "Command": "Comando",
+    "ModifiedAt": "Modificado em",
+
+    "New": "Novo",
+    "Update": "Atualizar",
+    "Refresh": "Recarregar",
+    "Save": "Salvar",
+    "Cancel": "Cancelar"
+}
